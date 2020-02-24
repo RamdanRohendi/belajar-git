@@ -1,4 +1,4 @@
 <?php
-echo "Hapus";
+echo "Hapus-hapus";
 echo "( ^o^)//";
 ?>
